@@ -14,7 +14,7 @@
 }
 
 .hero {
-    background-image: url(/imgs/queens-IxbXILf6EyQ-unsplash.jpg);
+    background-image: url(imgs/queens-IxbXILf6EyQ-unsplash.jpg);
     font-family: 'Josefin Sans', sans-serif;
     text-shadow: 3px 0 3px rgb(65, 65, 65);
     color: white;
@@ -29,7 +29,7 @@
     transition: all 0.7s ease-in-out;
 }
 .hero-details {
-    background-image: url(/imgs/marcel-strauss-pWTSPGQtyZY-unsplash.jpg);
+    background-image: url(imgs/marcel-strauss-pWTSPGQtyZY-unsplash.jpg);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     width: 100%;
     background-size:cover;
@@ -46,7 +46,7 @@
 }
 
 .hero-about {
-    background-image: url(/imgs/omar-prestwich-jLEGurepDco-unsplash.jpg);
+    background-image: url(imgs/omar-prestwich-jLEGurepDco-unsplash.jpg);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     width: 100%;
     background-size:cover;
@@ -146,7 +146,7 @@
 .main-photo-details {
     height: 700px;
     width: 100%;
-    background-image: url(/imgs/autri-taheri-QAwtEAY6V8I-unsplash.jpg);
+    background-image: url(imgs/autri-taheri-QAwtEAY6V8I-unsplash.jpg);
     text-align: center;
     display: flex;
     justify-content: center;
