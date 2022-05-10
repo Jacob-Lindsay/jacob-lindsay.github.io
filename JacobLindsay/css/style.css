@@ -6,7 +6,7 @@
     padding: 0;
 }
 header {  
-    background-image: url(imgs/hero.JPG);
+    background-image: url("https://jacob-lindsay.github.io/JacobLindsay/imgs/hero.JPG");
     background-size: 500px;
     background-position: bottom;
     display: flex;
